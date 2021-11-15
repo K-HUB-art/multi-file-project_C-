@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1636658717 source:c:\users\kamru\onedrive\desktop\c++\second_project\main.cpp
+	<iostream>
+	"our_firstlibrary.h"
+
+1636661212 c:\users\kamru\onedrive\desktop\c++\second_project\our_firstlibrary.h
+
+1636658634 source:c:\users\kamru\onedrive\desktop\c++\second_project\our_firstlibrary.cpp
+	<iostream>
+
